@@ -52,7 +52,7 @@ async function updateHomeReadme(items) {
     console.log('readmeContent-before', readmeContent);
     const newReadmeContent = readmeContent
       .replace(
-        /<!--readme:discussionCount-start-->.*?<!--readme:discussionCount-end-->/s,
+        /<!--readme:discussionCount-start-->.*?<!--readme:discussionCount-end-->/,
         `<!--readme:discussionCount-start-->${discussionCount}<!--readme:discussionCount-end-->`
       );
     console.log('readmeContent-after', newReadmeContent);
