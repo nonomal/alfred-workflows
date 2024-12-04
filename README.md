@@ -477,7 +477,7 @@ I developed the following SDK to improve workflow development efficiency.
 ## FAQ
 
 Welcome ➡️ [Discussion](https://github.com/alanhg/alfred-workflows/discussions)🔥
-<!--readme:discussionCount-start-->000<!--readme:discussionCount-end-->
+<!--readme:discussionCount-start-->142<!--readme:discussionCount-end-->
 
 ## Sponsor
 

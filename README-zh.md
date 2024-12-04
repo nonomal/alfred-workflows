@@ -477,7 +477,7 @@ P.S.: 使用这些Workflow的前提是已购买[Powerpack](https://www.alfredapp
 这里我记录了平时遇到的一些小技巧，小问题。
 
 欢迎到 ➡️ [Discussion](https://github.com/alanhg/alfred-workflows/discussions)🔥
-<!--readme:discussionCount-start-->000<!--readme:discussionCount-end-->
+<!--readme:discussionCount-start-->142<!--readme:discussionCount-end-->
 交流
 
 ## 赞助
